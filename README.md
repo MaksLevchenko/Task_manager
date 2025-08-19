@@ -1,11 +1,6 @@
 🚀 Task Manager API
 Простой и эффективный менеджер задач с полноценным REST API, построенный на современном стеке технологий.
 
-https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-
 ✨ Особенности
 🚀 Высокая производительность на базе FastAPI
 
@@ -35,7 +30,7 @@ ORM	SQLAlchemy	2.0+
 Вариант 1: Запуск через Docker (рекомендуется)
 bash
 # Клонирование репозитория
-git clone https://github.com/MaksLevchenko/task-manager.git
+git clone https://github.com/MaksLevchenko/Task-manager.git
 cd task-manager
 
 # Запуск приложения
@@ -186,16 +181,6 @@ curl -X PUT "http://localhost:8000/tasks/{task_id}" \
 
 Зависимости: Минимальный набор
 
-🤝 Contributing
-Форкните репозиторий
-
-Создайте feature ветку (git checkout -b feature/amazing-feature)
-
-Закоммитьте изменения (git commit -m 'Add amazing feature')
-
-Запушьте ветку (git push origin feature/amazing-feature)
-
-Откройте Pull Request
 
 📄 Лицензия
 Этот проект распространяется под лицензией MIT. См. файл LICENSE для подробностей.
