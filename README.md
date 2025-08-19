@@ -1,11 +1,6 @@
 🚀 Task Manager API
 Простой и эффективный менеджер задач с полноценным REST API, построенный на современном стеке технологий.
 
-https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-
 ✨ Особенности
 🚀 Высокая производительность на базе FastAPI
 
